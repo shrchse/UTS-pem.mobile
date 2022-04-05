@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="pt1">$ 42</string>
+    <string name="pt2">$ 84</string>
+    <string name="pt3">$ 182</string>
+    <string name="pt4">$ 20</string>
+    <string name="pt5">$ 32</string>
+    <string name="pt6">$ 45</string>
+    <string name="pt7">$ 60</string>
+    <string name="pt8">$ 32</string>
+    <string name="pt9">$ 24</string>
+    <string name="pt10">$ 200</string>
+</resources>

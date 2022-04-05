@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cap1">1DD + 1BA</string>
+    <string name="cap2">2DD + 1BA with Carbon Nanotube Diaphgram</string>
+    <string name="cap3">10mm-ULT DD</string>
+    <string name="cap4">1DD + 1BA</string>
+    <string name="cap5">1DD 10mm titanium coated + 1BA</string>
+    <string name="cap6">1DD DMT4 Architecture</string>
+    <string name="cap7">1DD NanoPure Nickel-zinc alloy</string>
+    <string name="cap8">7mm Dynamic Hi-Fi</string>
+    <string name="cap9">1DD + 1BA</string>
+    <string name="cap10">8 Balanced Armature + 1DD</string>
+</resources>

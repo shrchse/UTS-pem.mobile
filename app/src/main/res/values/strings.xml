@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">In-Ear Monitor</string>
+    <string name="obj1">Moondrop SSP</string>
+    <string name="obj2">Moondrop Starfield</string>
+    <string name="obj3">Moondrop Kato</string>
+    <string name="obj4">Moondrop Shiroyuki</string>
+    <string name="obj5">KZ ZSN PRO X</string>
+    <string name="obj6">Tanchjim Ola</string>
+    <string name="obj7">Tin T2+</string>
+    <string name="obj8">Tanchjim Tanya</string>
+    <string name="obj9">CCA CRA</string>
+    <string name="obj10">CCA C16s</string>
+</resources>
